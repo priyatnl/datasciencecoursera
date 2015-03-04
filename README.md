@@ -1,2 +1,0 @@
-# datasciencecoursera
-description - datasciencecoursera
